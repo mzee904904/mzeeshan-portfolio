@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-between{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-around{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.flex-evenly{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
